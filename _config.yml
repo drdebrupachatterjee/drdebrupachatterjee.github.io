@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "drdebrupachatterjee.github.GIS"
+title                    : "Debrupa Chatterjee"
 title_separator          : "Dr"
 name                     : &name "Debrupa Chatterjee"
 description              : &description "PhD in Geoinformatics | Eco-Hydrology | Remote Sensing | Water Resources Management"   # Update this with a general description of your site, this is the default if not overridden by a page
