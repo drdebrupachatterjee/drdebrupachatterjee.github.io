@@ -1,36 +1,26 @@
-# The following is the order of the links in the header of the website.
-#
-# Changing the order here will adjust the order and you can also add additional
-# links. Removing a link prevents it from showing in the header, but does not
-# prevent it from being included in the site.
-#
-# NOTE that only one of the CV options should be selected, the first is for the
-#      Markdown formatted page while the second is generated using JSON.
+# Main navigation
 
 main:
   - title: "Home"
-    url: "About"
+    url: "/"
 
-  - title: "Educational Background"
-    url: "/"    
+  - title: "About"
+    url: "/about/"
 
-  - title: "Projects"
-    url: "/Portfolio/"  
-    
+  - title: "GIS Projects"
+    url: "/portfolio/"
+
   - title: "Publications"
-    url: "/Publications/"
+    url: "/publications/"
 
-  - title: "Professional Certificates"
-    url: "/certificates/"
-        
   - title: "Teaching"
-    url: "/Teaching/"
-    
-  - title: "CV"
-    url: /cv/
-    
-  # - title: "CV"
-  #   url: /cv-json/
-    
-  - title: "Contacts"
-    url: /details/
+    url: "/teaching/"
+
+  - title: "Resume"
+    url: "/cv/"
+
+  - title: "Skills"
+    url: "/skills/"
+
+  - title: "Contact"
+    url: "/contact/"
