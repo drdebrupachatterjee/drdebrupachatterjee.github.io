@@ -4,7 +4,7 @@ title: "CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
-  - /resume
+  - "/resume/"
 ---
 
 {% include base_path %}
@@ -12,5 +12,3 @@ redirect_from:
 ## Download My Resume
 
 📄 **[Download Resume](/files/Debrupa_Chatterjee_CV.pdf)**
-
----
