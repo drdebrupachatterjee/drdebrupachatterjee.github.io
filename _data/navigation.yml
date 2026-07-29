@@ -9,9 +9,9 @@
 
 main:
   - title: "Home"
-    url: "/"
+    url: "About"
 
-  - title: "About"
+  - title: "Educational Background"
     url: "/"    
 
   - title: "Projects"
@@ -19,6 +19,9 @@ main:
     
   - title: "Publications"
     url: "/Publications/"
+
+  - title: "Professional Certificates"
+    url: "/certificates/"
         
   - title: "Teaching"
     url: "/Teaching/"
@@ -29,5 +32,5 @@ main:
   # - title: "CV"
   #   url: /cv-json/
     
-  - title: "Guide"
-    url: /markdown/
+  - title: "Contacts"
+    url: /details/
