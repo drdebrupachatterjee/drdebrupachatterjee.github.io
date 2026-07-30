@@ -4,9 +4,9 @@
 # which you are expected to set up once and rarely need to edit after that.
 
 # Basic Site Settings
-locale                   : "en-US"
+locale                   : "en-Michigan, US"
 site_theme               : "default" # Options: "default", "air", "sunrise", "mint", "dirt", "contrast"
-title                    : "Debrupa Chatterjee"
+title                    : "Dr. Debrupa Chatterjee"
 title_separator          : "|"
 name                     : &name "Debrupa Chatterjee"
 description              : &description "PhD in Geoinformatics | Water Resources | Remote Sensing | GIS Analyst & Geospatial Data Scientist"
@@ -18,7 +18,7 @@ repository               : "drdebrupachatterjee/drdebrupachatterjee.github.io"
 author:
   # Biographic information
   avatar                 : "1180.jpg"
-  name                   : "Debrupa Chatterjee, PhD"
+  name                   : "Debrupa Chatterjee, Ph.D."
   pronouns               : ""
   bio                    : "Geospatial researcher specializing in water resources, ecological drought, remote sensing, and spatial analysis."
   location               : "United States"
