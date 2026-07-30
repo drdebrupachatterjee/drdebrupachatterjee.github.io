@@ -4,4 +4,5 @@ excerpt: "Integrated geospatial framework quantifying water-ecosystem interactio
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+Water Accounting Plus (WA+) Framework is an advanced version of the IWMI and developed by IHE-Delft and FAO that combines open-source remote sensing datasets with the measurement of ground truth data to generate standardized results in a different Sheets along with the tables, Maps and graphs. This WA+ framework has been designed and developed to disseminate water related statistics that can be understand by the water managers and policy makers <br/><img src='/images/GIS1.png'>"
+In my Ph.D. I used WA+ framework in a semi-arid catchment (Central Godavari Basin) of India to assess water resources and estimate the water productivity/land productivity for sustaining food security in context of the climate change and human’s interventions
