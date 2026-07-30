@@ -22,21 +22,21 @@ author:
   pronouns               : ""
   bio                    : "Geospatial researcher specializing in water resources, ecological drought, remote sensing, and spatial analysis."
   location               : "United States"
-  employer               : "Geospatial Data Scientist"
+  employer               : "Geospatial Researcher"
   uri                    :
-  email                  : "" # Add your email here if you want it displayed in the sidebar
+  email                  : "debrupa.siu@gmail.com" # Add your email here if you want it displayed in the sidebar
 
   # Academic websites
   academia               :
   arxiv                  :
-  googlescholar          : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar          : "https://scholar.google.com/citations?hl=en&user=3vOMfewAAAAJ&view_op=list_works&sortby=pubdate"
   inspire-hep            :
   impactstory            :
-  orcid                  : "https://orcid.org/yourorcidurl" # Replace with your exact ORCID link
+  orcid                  : "https://orcid.org/0000-0002-3779-3206" # Replace with your exact ORCID link
   semantic               :
   ssrn                   :
   pubmed                 :
-  researchgate           :
+  researchgate           : "https://www.researchgate.net/profile/Debrupa-Chatterjee?ev=hdr_xprf"
   scopus                 :
   zotero                 :
 
