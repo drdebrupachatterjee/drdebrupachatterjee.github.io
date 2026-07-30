@@ -1,6 +1,6 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Developing a Satellite-based Water Accounting Plus (WA+) Framework in the Godavari River Basin under Changing Climate"
+excerpt: "Integrated geospatial framework quantifying water-ecosystem interactions and water-food-energy nexus under climate change. 1<br/><img src='/images/GIS1.png'>"
 collection: portfolio
 ---
 
